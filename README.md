@@ -1,7 +1,10 @@
 # twitter_clone
 <<<<<<< HEAD
+<<<<<<< HEAD
 Twitter like application
 =======
+=======
+>>>>>>> ebf440ff5a390c0718f28f7bb72a0452f33ef22d
 
 A new Flutter project.
 
@@ -17,4 +20,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
 >>>>>>> 6bcc5d22cfc76801719f1556bb383493a4fdb325
+=======
+
+>>>>>>> ebf440ff5a390c0718f28f7bb72a0452f33ef22d
